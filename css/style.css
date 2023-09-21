@@ -1,0 +1,39 @@
+/* Universal selector */
+*{
+    color: aqua;
+}
+
+/* ID selector */
+#menu {
+    border: #2c3e50 solid;
+    padding: 20px;
+    background-color: slateblue;
+}
+
+#content {
+    border: blue solid;
+    padding: 20px;
+    background-color: azure;
+    margin-top: 20px;
+}
+
+#footer {
+    border: green;
+    padding: 20px;
+    background-color: blue;
+    margin-top: 20px;
+
+}
+
+/* Class selector */
+.text-red {
+    color: red;
+    font-size: 10px;
+}
+.text-blue {
+    color: #3498db;
+    font-size: 30px;
+}
+.heading {
+    font-size: 50px;
+}
